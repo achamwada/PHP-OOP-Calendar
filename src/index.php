@@ -12,7 +12,7 @@
       <div class="container">
 
             <div class="row">
-                    <h1 style="color:#337ab7">Calendar AnyVan</h1>
+                    <h1 style="color:#337ab7">Calendar</h1>
              </div>
 
                   <div class="row">
