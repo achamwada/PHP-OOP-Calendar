@@ -1,0 +1,18 @@
+
+table{
+    font-family: Helvetica, arial, sans-serif;
+    font-size: 13px;
+    border-collapse: collapse;
+    border: 1px solid #C24704;
+    box-shadow: 4px 4px 4px #555;
+   }
+
+tr:nth-of-type(odd){
+    background-color:#AD6C49;
+    color:#fff;
+}
+
+.mov_left{
+    margin-left: 70%;
+}
+

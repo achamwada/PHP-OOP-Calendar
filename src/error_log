@@ -1,0 +1,132 @@
+[23-Feb-2017 06:07:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 33
+[23-Feb-2017 06:09:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 33
+[23-Feb-2017 06:09:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 33
+[23-Feb-2017 06:09:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 33
+[23-Feb-2017 06:09:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 33
+[23-Feb-2017 06:10:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 33
+[23-Feb-2017 06:10:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 33
+[23-Feb-2017 06:10:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 33
+[23-Feb-2017 06:10:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 33
+[23-Feb-2017 06:10:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 33
+[23-Feb-2017 06:10:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 33
+[23-Feb-2017 06:10:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 33
+[23-Feb-2017 06:10:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 33
+[23-Feb-2017 06:10:20 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21--1-2017) at position 0 (2): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21--1-2017')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(44): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[23-Feb-2017 06:10:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 33
+[23-Feb-2017 06:10:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 37
+[23-Feb-2017 06:10:50 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-13-2017) at position 0 (2): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-13-2017')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(44): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[23-Feb-2017 06:11:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 37
+[23-Feb-2017 06:11:42 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-13-2017) at position 0 (2): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-13-2017')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(44): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[23-Feb-2017 06:13:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php:20) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 40
+[24-Feb-2017 09:51:52 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-13-2017) at position 0 (2): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-13-2017')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(52): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[24-Feb-2017 09:51:58 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-13-2017) at position 0 (2): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-13-2017')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(52): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[24-Feb-2017 09:55:42 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-13-2017) at position 0 (2): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-13-2017')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(52): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[24-Feb-2017 10:04:41 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-13-2017) at position 0 (2): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-13-2017')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(52): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[25-Feb-2017 10:33:27 America/Chicago] PHP Parse error:  syntax error, unexpected ''&&month=1&&day=15'' (T_CONSTANT_ENCAPSED_STRING) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 44
+[25-Feb-2017 10:34:23 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 44
+[25-Feb-2017 10:35:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php on line 44
+[25-Feb-2017 11:28:13 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-4-2056545) at position 9 (5): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-4-2056545')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(53): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[25-Feb-2017 11:28:34 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-4-55017) at position 9 (7): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-4-55017')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(53): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[25-Feb-2017 11:28:40 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-4-35017) at position 9 (7): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-4-35017')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(53): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[25-Feb-2017 11:28:47 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-4-15017) at position 9 (7): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-4-15017')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(53): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[25-Feb-2017 11:30:20 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-1-10000) at position 9 (0): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-1-10000')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(53): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[25-Feb-2017 11:31:34 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-12--1) at position 0 (2): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-12--1')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(53): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[25-Feb-2017 11:31:45 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-12--1) at position 0 (2): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-12--1')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(53): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[26-Feb-2017 02:49:24 America/Chicago] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 78
+[26-Feb-2017 02:49:24 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-1-) at position 0 (2): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-1-')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(53): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[26-Feb-2017 02:50:04 America/Chicago] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 78
+[26-Feb-2017 02:50:04 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-1-) at position 0 (2): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-1-')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(53): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[26-Feb-2017 02:50:50 America/Chicago] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 78
+[26-Feb-2017 02:50:50 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-4-) at position 0 (2): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-4-')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(53): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
+[26-Feb-2017 02:51:10 America/Chicago] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 78
+[26-Feb-2017 02:51:10 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (21-3-) at position 0 (2): Unexpected character' in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php:71
+Stack trace:
+#0 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php(71): DateTime->__construct('21-3-')
+#1 /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/index.php(53): Calendar->getFirstWeek()
+#2 {main}
+  thrown in /home2/alexchams/public_html/alexanderchamwada.tech/AnyVan/CalendarTest-master/src/Calendar.php on line 71
