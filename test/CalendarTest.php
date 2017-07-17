@@ -7,8 +7,7 @@ use PHPUnit_Framework_TestCase;
 
 class CalendarTest extends PHPUnit_Framework_TestCase
 {
-    public function setUp()
-    {
+    public function setUp(){
         date_default_timezone_set('Europe/London');
     }
 
